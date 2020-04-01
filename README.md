@@ -42,13 +42,13 @@ Send SMS to all the clients’ campaign contact list. SMS can be sent to all the
 
 2.  Provide your SMS Alert details on the landing page and click on **Update**.
 
-    <img src= "images/image2.png" width=400>
+    <img src= "images/image.png" width=400>
 
 3.  Click on Home button from the top right.
 
 4.  You will land on a home page. Here you need to provide your Campaign Monitor Api key and status of the campaign for which you want to send SMS.
 
-    <img src= "images/image3.png" width=400>
+    <img src= "images/image4.png" width=400>
 
 5.  When you provide the Api key, it will display a list of clients registered with that Api key.
 
@@ -73,7 +73,7 @@ SMS Alert API Key
 
 -   Api Key will display in the top bar as shown in the below image:
 
-	<img src= "images/image5.png" width=400>
+	<img src= "images/image3.png" width=400>
 
 Campaign Monitor API Keys
 -------------------------
