@@ -60,7 +60,7 @@ Send SMS to all the clients’ campaign contact list. SMS can be sent to all the
 
 9.  A textArea will be displayed, you can type your message here and click on **Send SMS**.
 
-    <img src= "images/image4.png" width=400>
+    <img src= "images/image5.png" width=400>
 
 ##Appendix
 
