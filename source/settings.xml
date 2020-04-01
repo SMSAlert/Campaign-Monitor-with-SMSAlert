@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<settings>
+  <smsalert>
+    <apikey>5a213f7783911</apikey>
+    <senderid>TESTWC</senderid>
+  </smsalert>
+  <campaignmonitor>
+    <phonenumberfield>mobile_number</phonenumberfield>
+  </campaignmonitor>
+</settings>
